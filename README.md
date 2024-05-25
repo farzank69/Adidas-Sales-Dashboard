@@ -1,7 +1,4 @@
-![adidas-logo-png-transparent-24](https://github.com/farzank69/Adidas-Sales-Dashboard/assets/91688069/1a29e5a3-d239-4468-a0f2-5d83c1f44363)# Adidas Sales Dashboard
-
-![Adidas Logo]()
-
+# Adidas Sales Dashboard
 ## Overview
 This project is a comprehensive sales analysis dashboard for Adidas, created using Tableau. The dashboard provides insights into key metrics such as total sales, profit, and quantity sold, with visualizations designed to align with Adidas' branding.
 
@@ -27,7 +24,8 @@ The color scheme aligns with Adidas' branding:
 - **Lowest Point / Profit / Below**: Dark Red (#880E4F)
 
 ## Dashboard Preview
-![Dashboard Preview](link_to_your_dashboard_image)
+<img width="1283" alt="dashboard ss" src="https://github.com/farzank69/Adidas-Sales-Dashboard/assets/91688069/f966d07e-b822-491e-868c-7bf6bfa18787">
+
 
 ## How to View the Dashboard
 To view the dashboard, you can download the Tableau file from this repository and open it with Tableau Desktop. Alternatively, a PDF version of the dashboard is also available for quick viewing.
@@ -35,8 +33,7 @@ To view the dashboard, you can download the Tableau file from this repository an
 ## Project Structure
 - `data/`: Contains the dataset used for analysis.
 - `dashboard/`: Tableau workbook (.twb) and packaged workbook (.twbx) files.
-- `images/`: Images used in the README and dashboard.
-- `docs/`: PDF version of the dashboard and any additional documentation.
+- `docs/`: PPT version of the dashboard.
 
 ## Installation
 1. Clone the repository:
@@ -58,11 +55,11 @@ To view the dashboard, you can download the Tableau file from this repository an
 - **Visual Clarity**: Focused on creating a clean and intuitive layout for better understanding.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE]() file for more details.
 
 ## Contact
 Feel free to reach out for any questions or collaboration opportunities:
-- **LinkedIn**: (https://www.linkedin.com/in/farzan-khan01/)
+- **LinkedIn**: https://www.linkedin.com/in/farzan-khan01/
 - **Email**: farzankhan61r@gmail.com
 
 ## Acknowledgements
