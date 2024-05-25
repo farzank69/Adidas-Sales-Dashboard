@@ -55,7 +55,7 @@ To view the dashboard, you can download the Tableau file from this repository an
 - **Visual Clarity**: Focused on creating a clean and intuitive layout for better understanding.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE]() file for more details.
+This project is licensed under the MIT License.
 
 ## Contact
 Feel free to reach out for any questions or collaboration opportunities:
