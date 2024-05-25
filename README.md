@@ -38,7 +38,7 @@ To view the dashboard, you can download the Tableau file from this repository an
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your_username/adidas-sales-dashboard.git
+    git clone https://github.com/farzank69/adidas-sales-dashboard.git
     ```
 2. Navigate to the project directory:
     ```sh
